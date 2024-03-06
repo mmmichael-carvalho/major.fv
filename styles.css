@@ -1,0 +1,39 @@
+* {
+  margin: 1;
+}
+
+body {
+  background-color: rgb(221, 217, 212);
+  font-family: "Kode Mono", monospace;
+}
+
+#primeiro {
+  text-align: center;
+  font-family: "Anta", sans-serif;
+}
+
+.cabeca {
+  text-align: center;
+  font-family: "Anta", sans-serif;
+}
+
+.europa {
+  text-indent: 1rem;
+  text-align: justify;
+}
+
+.formato {
+  font-family: "Anta", sans-serif;
+}
+
+p {
+  text-align: justify;
+}
+
+body {
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+}
